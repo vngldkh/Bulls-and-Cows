@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Bulls_and_Cows/1.0.0": {
+        "runtime": {
+          "Bulls_and_Cows.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bulls_and_Cows/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Programming\Peergrades\Peergrade_01\Bulls_and_Cows\bin\Debug\net5.0\Bulls_and_Cows.exe
+C:\Programming\Peergrades\Peergrade_01\Bulls_and_Cows\bin\Debug\net5.0\Bulls_and_Cows.deps.json
+C:\Programming\Peergrades\Peergrade_01\Bulls_and_Cows\bin\Debug\net5.0\Bulls_and_Cows.runtimeconfig.json
+C:\Programming\Peergrades\Peergrade_01\Bulls_and_Cows\bin\Debug\net5.0\Bulls_and_Cows.runtimeconfig.dev.json
+C:\Programming\Peergrades\Peergrade_01\Bulls_and_Cows\bin\Debug\net5.0\Bulls_and_Cows.dll
+C:\Programming\Peergrades\Peergrade_01\Bulls_and_Cows\bin\Debug\net5.0\ref\Bulls_and_Cows.dll
+C:\Programming\Peergrades\Peergrade_01\Bulls_and_Cows\bin\Debug\net5.0\Bulls_and_Cows.pdb
+C:\Programming\Peergrades\Peergrade_01\Bulls_and_Cows\obj\Debug\net5.0\Bulls_and_Cows.csproj.AssemblyReference.cache
+C:\Programming\Peergrades\Peergrade_01\Bulls_and_Cows\obj\Debug\net5.0\Bulls_and_Cows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Peergrades\Peergrade_01\Bulls_and_Cows\obj\Debug\net5.0\Bulls_and_Cows.AssemblyInfoInputs.cache
+C:\Programming\Peergrades\Peergrade_01\Bulls_and_Cows\obj\Debug\net5.0\Bulls_and_Cows.AssemblyInfo.cs
+C:\Programming\Peergrades\Peergrade_01\Bulls_and_Cows\obj\Debug\net5.0\Bulls_and_Cows.csproj.CoreCompileInputs.cache
+C:\Programming\Peergrades\Peergrade_01\Bulls_and_Cows\obj\Debug\net5.0\Bulls_and_Cows.dll
+C:\Programming\Peergrades\Peergrade_01\Bulls_and_Cows\obj\Debug\net5.0\ref\Bulls_and_Cows.dll
+C:\Programming\Peergrades\Peergrade_01\Bulls_and_Cows\obj\Debug\net5.0\Bulls_and_Cows.pdb
+C:\Programming\Peergrades\Peergrade_01\Bulls_and_Cows\obj\Debug\net5.0\Bulls_and_Cows.genruntimeconfig.cache
